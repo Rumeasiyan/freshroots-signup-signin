@@ -12,7 +12,6 @@ Check out the [design preview](https://yourdomain.com/path/to/design-preview) to
 
 Visit the [live FreshRoots Signup/Signin Page](https://yourdomain.com/path/to/live-website) to experience it in action.
 
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
